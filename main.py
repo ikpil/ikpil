@@ -21,10 +21,6 @@ articles_tree = tree.add("📘 Popular Articles")
 articles_tree.add("[link=https://www.ikpil.com/1348]Deadlock Detector")
 
 about = """\
-[한국어]
-저는 대한민국에서 게임 프로그래머로 활동하고 있는 최익필입니다. 게임 개발시 필요한 필수 요소를 주로 만들고 있어요. 같이 재미있게 만들어요!
-
-[English]
 I'm Ikpil, working as a game programmer in South Korea. I mainly focus on creating essential elements required for game development. Let's make games together and have fun!
 
 Follow me on [bold link=https://twitter.com/ikpil]Twitter[/].
