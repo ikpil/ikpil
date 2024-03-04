@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**ikpil/ikpil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi 👋 I&#x27;m Ikpil</span><span style="color: #000080; text-decoration-color: #000080"> ═════════════════════╗</span> 😄 <a href="https://github.com/ikpil">Ikpil</a>                      
+<span style="color: #000080; text-decoration-color: #000080">║</span> [한국어]                                                 <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🐍 Packages               
+<span style="color: #000080; text-decoration-color: #000080">║</span> 저는 대한민국에서 게임 프로그래머로 활동하고 있는        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   ┣━━ </span><a href="https://github.com/ikpil/DotRecast">DotRecast</a>             
+<span style="color: #000080; text-decoration-color: #000080">║</span> 최익필입니다. 게임 개발시 필요한 필수 요소를 주로 만들 … <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   ┣━━ </span><a href="https://github.com/ikpil/UniRecast">UniRecast</a>             
+<span style="color: #000080; text-decoration-color: #000080">║</span> 있어요. 같이 재미있게 만들어요!                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   ┣━━ </span><a href="https://github.com/ikpil/DotFastLZ">DotFastLZ</a>             
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   ┗━━ </span><a href="https://github.com/ikpil/DotCompressorBenchmark">DotCompressorBenchmark</a>
+<span style="color: #000080; text-decoration-color: #000080">║</span> [English]                                                <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>📘 Popular Articles       
+<span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m Ikpil, working as a game programmer in South Korea.  <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">    ┗━━ </span><a href="https://www.ikpil.com/1348">Deadlock Detector</a>     
+<span style="color: #000080; text-decoration-color: #000080">║</span> I mainly focus on creating essential elements required   <span style="color: #000080; text-decoration-color: #000080">║</span>                               
+<span style="color: #000080; text-decoration-color: #000080">║</span> for game development. Let&#x27;s make games together and have <span style="color: #000080; text-decoration-color: #000080">║</span>                               
+<span style="color: #000080; text-decoration-color: #000080">║</span> fun!                                                     <span style="color: #000080; text-decoration-color: #000080">║</span>                               
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                               
+<span style="color: #000080; text-decoration-color: #000080">║</span> Follow me on <span style="font-weight: bold"><a href="https://twitter.com/ikpil">Twitter</a></span>.                                    <span style="color: #000080; text-decoration-color: #000080">║</span>                               
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                               
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                               
+</pre>
