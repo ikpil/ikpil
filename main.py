@@ -21,7 +21,7 @@ articles_tree = tree.add("📘 Popular Articles")
 articles_tree.add("[link=https://www.ikpil.com/1348]Deadlock Detector")
 
 about = """\
-I'm Ikpil, working as a game programmer in South Korea. I mainly focus on creating essential elements required for game development. Let's make games together and have fun!
+working as a game programmer in South Korea. I mainly focus on creating essential elements required for game development. Let's make games together and have fun!
 
 Follow me on [bold link=https://twitter.com/ikpil]Twitter[/].
 """
