@@ -27,7 +27,7 @@ Follow me on [bold link=https://twitter.com/ikpil]Twitter[/].
 """
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ikpil", width=40
+    about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ikpil", width=45
 )
 
 console.print(Columns([panel]))
