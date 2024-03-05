@@ -27,10 +27,11 @@ Follow me on [bold link=https://twitter.com/ikpil]Twitter[/].
 """
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ikpil", width=60
+    about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ikpil", width=40
 )
 
-console.print(Columns([panel, tree]))
+console.print(Columns([panel]))
+console.print(Columns([tree]))
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
