@@ -9,7 +9,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.tree import Tree
 
-console = Console(record=True, width=40)
+console = Console(record=True, width=41)
 
 tree = Tree("😄 [link=https://github.com/ikpil]Ikpil", guide_style="bold cyan")
 packages_tree = tree.add("🐍 Packages")
@@ -27,7 +27,7 @@ Follow me on [bold link=https://twitter.com/ikpil]Twitter[/].
 """
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ikpil", width=40
+    about, box=box.DOUBLE, border_style="blue", title="[b]Hi 👋 I'm Ikpil", width=41
 )
 
 console.print(Columns([panel]))
