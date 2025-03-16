@@ -15,6 +15,7 @@ tree = Tree("😄 [link=https://github.com/ikpil]Ikpil", guide_style="bold cyan"
 packages_tree = tree.add("🐍 Packages")
 packages_tree.add("[link=https://github.com/ikpil/DotRecast]DotRecast")
 packages_tree.add("[link=https://github.com/ikpil/UniRecast]UniRecast")
+packages_tree.add("[link=https://github.com/ikpil/Box2D.NET]Box2D.NET")
 packages_tree.add("[link=https://github.com/ikpil/UniNetty]UniNetty")
 packages_tree.add("[link=https://github.com/ikpil/DotFastLZ]DotFastLZ")
 packages_tree.add("[link=https://github.com/ikpil/DotCompressorBenchmark]DotCompressorBenchmark")
